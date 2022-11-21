@@ -1,5 +1,5 @@
 {
-  "name": "@weeyin83/github-docs-check",
+  "name": "github-docs-check",
   "version": "1.0.0",
   "description": "sarah testing docs",
   "main": "index.js",
