@@ -1,19 +1,15 @@
 {
   "name": "github-docs-check",
   "version": "1.0.0",
-  "description": "Sarah testing out documentation",
+  "description": "Sarah learning",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/weeyin83/github-docs-check.git"
   },
-  "keywords": [
-    "sarah",
-    "lean"
-  ],
   "author": "sarah lean",
   "license": "ISC",
   "bugs": {
