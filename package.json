@@ -21,6 +21,6 @@
   },
   "publishConfig": {
     "weeyin83:registry": "https://npm.pkg.github.com"
-  }
+  },
   "homepage": "https://github.com/weeyin83/github-docs-check#readme"
 }
