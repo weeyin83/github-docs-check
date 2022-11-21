@@ -1,7 +1,7 @@
 {
   "name": "github-docs-check",
   "version": "1.0.0",
-  "description": "Sarah learning",
+  "description": "sarah testing docs",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
@@ -14,9 +14,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/weeyin83/github-docs-check/issues"
-  },
-  "publishConfig": {
-    "weeyin83:registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/weeyin83/github-docs-check#readme"
 }
